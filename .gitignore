@@ -1,0 +1,13 @@
+.env
+corpora
+human
+scripts
+subtask_A_testphase
+
+# Subtask A results (CSV summary files)
+subtask_A/results_baseline_summary.csv
+subtask_A/results_summary_reranker_4omini.csv
+subtask_A/results_summary.csv
+
+# Or use pattern to ignore all CSV results:
+# subtask_A/results/*.csv
