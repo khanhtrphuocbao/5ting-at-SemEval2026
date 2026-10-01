@@ -1,6 +1,6 @@
-# 5sting at SemEval-2026 Task 8: MTRAG
+# 5sting at SemEval-2026 Task 8: MTRAG (Our publication at SemEval-2026 Task 8)
 > **Multi-Turn RAG Benchmark** — A comprehensive retrieval and generation pipeline for the MTRAG shared task. [See detail here](https://github.com/IBM/mt-rag-benchmark)
-
+https://aclanthology.org/2026.semeval-1.254/
 ---
 ## Task Descriptions
 
